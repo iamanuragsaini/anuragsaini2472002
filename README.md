@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuragsaini2472002
+- 👋 Hi, I’m Anurag Saini
 - 👀 I’m interested in grow to my knowledge.
 - 🌱 I’m currently learning Full-stack blockchain and Data Science technologies.
 - 📫 personal id: anuragsaini2472002@gmail.com
